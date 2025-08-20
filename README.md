@@ -55,14 +55,3 @@ Welcome! This repo documents my learning path from basic Python to Machine Learn
 
 ---
 
-## 🧭 Learning Flow
-
-```mermaid
-flowchart TD
-    A[Fake News Generator] --> B[Library Management]
-    B --> C[Traffic Management + Logic Doc]
-    C --> D[NumPy + Pandas + Matplotlib]
-    D --> E[Seaborn Visualization]
-    E --> F[PyTorch Basics]
-    F --> G[Stock Prediction (Linear Regression, PyTorch)]
-    G --> H[Logistic Regression (Sklearn + PyTorch)]
