@@ -1,6 +1,6 @@
 # 🎓 Internship Projects – Learning Journey
 
-Welcome! This repo documents my learning path from basic Python to Machine Learning with PyTorch.
+Welcome! This repo documents my learning path from basic Python to Machine Learning.
 
 ---
 
