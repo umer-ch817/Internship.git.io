@@ -49,7 +49,7 @@ Welcome! This repo documents my learning path from basic Python to Machine Learn
 ---
 
 ### 🔹 7. Logistic Regression (learned **after** Linear Regression)
-- **Scikit-learn version:** [diabetes_analysis_by_logistic_regression.ipynb](diabetes_analysis_by_logistic_regression.ipynb)  
+- **Scikit-learn version:** [diabetes_analysis_by_logistic_regression_ipynb.ipynb](diabetes_analysis_by_logistic_regression_ipynb.ipynb)  
 - **PyTorch version:** [logistic_regression_using_pytourch.ipynb](logistic_regression_using_pytourch.ipynb)  
 - Binary classification on diabetes dataset; confusion matrix & metrics.
 
