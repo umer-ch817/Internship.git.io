@@ -55,3 +55,10 @@ Welcome! This repo documents my learning path from basic Python to Machine Learn
 
 ---
 
+### 🔹 8. Regularization in Regression (Ridge, Lasso, Elastic Net)  
+**Notebook:** [Regularization.ipynb](Regularization.ipynb)  
+- Implemented **Ridge (L2), Lasso (L1), and Elastic Net** regression.  
+- Visualized effect of `alpha` on model fits using scatter plots.  
+- Learned why Ridge shrinks coefficients (never zero), Lasso creates sparsity (exact zero), and Elastic Net balances both.
+
+---
