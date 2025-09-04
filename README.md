@@ -23,7 +23,7 @@ Welcome! 🚀 This repository documents my step-by-step journey from **basic Pyt
 ### 🔹 3. Traffic Management System  
 📄 **File:** [traffic mangment system.py](traffic%20mangment%20system.py)  
 📑 **Logic Doc:** [TrafficSimulationLogic.docx](TrafficSimulationLogic.docx)  
-- Small traffic control simulation. 
+- Small traffic control simulation.  
 - Learned conditional logic & documenting logic.  
 
 ---
@@ -67,7 +67,7 @@ Welcome! 🚀 This repository documents my step-by-step journey from **basic Pyt
 ---
 
 ### 🔹 9. K-Nearest Neighbors (KNN) Classifier  
-📓 **Notebook:** [KNN (1).ipynb](KNN (1).ipynb)  
+📓 **Notebook:** [KNN.ipynb](KNN.ipynb)  
 - Applied KNN algorithm for classification.  
 - Learned effect of **K value** on accuracy.  
 - Plotted accuracy vs K, built confusion matrix.  
