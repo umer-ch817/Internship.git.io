@@ -65,3 +65,12 @@ Welcome! 🚀 This repository documents my step-by-step journey from **basic Pyt
 - Understood difference: Ridge → shrinkage, Lasso → sparsity, Elastic Net → balance.  
 
 ---
+
+### 🔹 9. K-Nearest Neighbors (KNN) Classifier  
+📓 **Notebook:** [KNN.ipynb](KNN.ipynb)  
+- Applied KNN algorithm for classification.  
+- Learned effect of **K value** on accuracy.  
+- Plotted accuracy vs K, built confusion matrix.  
+- Predicted class for new unseen data points.  
+
+---
