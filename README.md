@@ -67,7 +67,7 @@ Welcome! 🚀 This repository documents my step-by-step journey from **basic Pyt
 ---
 
 ### 🔹 9. K-Nearest Neighbors (KNN) Classifier  
-📓 **Notebook:** [KNN(1).ipynb](KNN(1).ipynb)  
+📓 **Notebook:** [KNN (1).ipynb](KNN (1).ipynb)  
 - Applied KNN algorithm for classification.  
 - Learned effect of **K value** on accuracy.  
 - Plotted accuracy vs K, built confusion matrix.  
